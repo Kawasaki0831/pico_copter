@@ -1,3 +1,5 @@
+//kawasaki_branchやで
+
 #include "pico_copter.hpp"
 
 //グローバル変数
