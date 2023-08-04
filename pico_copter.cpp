@@ -1,4 +1,4 @@
-//kawasaki_branchやで
+//kawasaki_branchやで~
 
 #include "pico_copter.hpp"
 
